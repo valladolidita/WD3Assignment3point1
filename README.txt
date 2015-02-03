@@ -8,3 +8,4 @@ My Grocery List:
 - 3 onions
 - 1 head garlic
 - 3 red peppers
+- Stella Artois
